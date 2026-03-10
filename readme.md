@@ -1,4 +1,4 @@
-# Guided Diffusion
+# Guided Diffusion (Dolly Parton Simulator) 
 
 A collection of notebooks used to train a diffusion model on celeba dataset. 
 
@@ -12,6 +12,7 @@ Conditional Model can be trained and run using the conditional_celeba.ipynb note
 
 ## Faces generated with a conditional model
 
-Here we see faces generated displaying blonde and black hair. 
+Here we see smiling faces generated displaying blonde and black hair. 
+Demonstrating the conditional control of the underlying model. 
 
 ![random](./media/blonde_black_hair.png)
